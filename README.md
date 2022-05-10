@@ -1,4 +1,4 @@
-# ci-cd-knowledge
+# CI-CD-Knowledge
 
 1. CI - Continuous Integration
 2. CD - Continuous Delivery
