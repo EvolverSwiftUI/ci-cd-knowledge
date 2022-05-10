@@ -21,7 +21,11 @@ Tools used for ci-cd :
 
 <br>
 
-please refer below image for CI work flow
+please refer below images for CI work flow
 
 <br>
 <img src="https://user-images.githubusercontent.com/93422294/167628830-edc487f6-27b1-46cd-bc70-2d08fe228c8b.jpg" />
+
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/93422294/167635090-8cc5d3d0-9b36-498d-a2c2-002228afc05d.png"/>
