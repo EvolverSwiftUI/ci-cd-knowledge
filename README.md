@@ -5,7 +5,7 @@
 
 <br>
 
-Jenkins - tool used for CI process - also called as CIServer - open sourced most famous automation server
+Jenkins - tool used for CI process to build a Pipeline containing different stages - also called as CIServer - open sourced most famous automation server
 <br>
 Fastlane - tool used for CD process - need to understand more.
 
