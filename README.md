@@ -18,6 +18,7 @@ Tools used for ci-cd :
 3. Webhook
 4. Fastlane
 5. Firebase App Distribution / Test flight
+6. ngrok 
 
 <br>
 
